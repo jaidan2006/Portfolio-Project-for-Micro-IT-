@@ -1,0 +1,12 @@
+Project Title: Simple Calculator using Java Swing
+
+Description:
+This project is a basic calculator developed using Java Swing. It provides a graphical interface that allows users to perform simple arithmetic operations such as addition, subtraction, multiplication, and division.
+
+Technologies Used:
+- Java
+- Java Swing (GUI)
+
+How to Run:
+1. Compile: javac Calculator.java
+2. Run:     java Calculator
